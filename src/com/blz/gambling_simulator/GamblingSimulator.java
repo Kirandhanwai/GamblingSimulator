@@ -1,8 +1,10 @@
 package com.blz.gambling_simulator;
 
 public class GamblingSimulator {
-	public static void main(String[] args) {
-	  System.out.println("Welcome to Gambling Simulator");
+	static int stake = 100;
+	static int Bet = 1;
+	public static void main (String[] Args) {
+		System.out.println("Weclome To Gambling Simulator");
 	}
 
 }
